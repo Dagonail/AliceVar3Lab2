@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\AliceLab2\AliceLab2\bin\Debug\AliceLab2.exe.config
+C:\Users\User\Desktop\AliceLab2\AliceLab2\bin\Debug\AliceLab2.exe
+C:\Users\User\Desktop\AliceLab2\AliceLab2\bin\Debug\AliceLab2.pdb
+C:\Users\User\Desktop\AliceLab2\AliceLab2\obj\Debug\AliceLab2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AliceLab2\AliceLab2\obj\Debug\AliceLab2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AliceLab2\AliceLab2\obj\Debug\AliceLab2.exe
+C:\Users\User\Desktop\AliceLab2\AliceLab2\obj\Debug\AliceLab2.pdb
